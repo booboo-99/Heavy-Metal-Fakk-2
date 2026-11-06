@@ -194,3 +194,6 @@ This repository serves as the official landing page for Heavy Metal: F.A.K.K. 2.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heavy Metal: F.A.K.K. 2 today!**
+
+---
+**Last updated:** 2026-11-06 12:42:39 UTC
