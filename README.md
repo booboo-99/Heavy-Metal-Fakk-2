@@ -196,4 +196,4 @@ This repository serves as the official landing page for Heavy Metal: F.A.K.K. 2.
 **Get the most recent version of Heavy Metal: F.A.K.K. 2 today!**
 
 ---
-**Last updated:** 2026-11-13 05:03:47 UTC
+**Last updated:** 2026-11-13 13:55:46 UTC
